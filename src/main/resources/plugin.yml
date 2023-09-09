@@ -1,0 +1,4 @@
+name: AntiLootDestruction
+version: '${project.version}'
+main: themasterkitty.antilootdestruction.AntiLootDestruction
+api-version: '1.19'
